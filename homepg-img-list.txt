@@ -1,0 +1,26 @@
+1		2		
+	3		4
+5		6		
+	7		8
+9		10	
+	11	12
+13	14	
+	15	16
+
+1 foreign-currency https://staging.setsquared.group/wp-content/uploads/2022/08/forgeign-currency_BW.jpg
+2 property-finance https://staging.setsquared.group/wp-content/uploads/2019/01/specialism-image12.jpg
+3 corporate-finance https://staging.setsquared.group/wp-content/uploads/2018/12/featured-image1.jpg 
+4 financial-management https://staging.setsquared.group/wp-content/uploads/2022/08/accountancy_BW.jpg
+5 intellectual-property https://staging.setsquared.group/wp-content/uploads/2022/08/intellectual-property_BW.jpg
+6 legal-services https://staging.setsquared.group/wp-content/uploads/2019/01/specialism-image10-150x150.jpg
+7 b2b-insurance https://staging.setsquared.group/wp-content/uploads/2019/01/specialism-image9.jpg
+8 chartered-tax-advisor https://staging.setsquared.group/wp-content/uploads/2018/12/specialism-image2.jpg
+9 protection https://staging.setsquared.group/wp-content/uploads/2018/12/specialism-image7.jpg
+10 wealth-management https://staging.setsquared.group/wp-content/uploads/2018/12/specialism-image2.jpg
+11 succession-planning https://staging.setsquared.group/wp-content/uploads/2022/08/successsion-planning_BW.jpg
+12 research-development https://staging.setsquared.group/wp-content/uploads/2022/08/research-development_BW.jpg
+13 outstanding-invoice https://staging.setsquared.group/wp-content/uploads/2022/08/outstaning-invoice_BW.jpg
+14 retirement-planning https://staging.setsquared.group/wp-content/uploads/2022/08/retirement-planning_BW.jpg
+15 claims-handling https://staging.setsquared.group/wp-content/uploads/2022/08/claims-handling_BW.jpg
+16 business-premises https://staging.setsquared.group/wp-content/uploads/2018/12/specialism-image8.jpg
+	
